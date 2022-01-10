@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @_viniciusneri
-- 👀 I’m interested in development, learning more skills about Java Spring Boot
+- 👀 I’m interested in infrastructure and development.
 - 🌱 I’m currently learning Java Spring Boot, Git, JavaScript and React.
 - 📫 How to reach me: Instagram @_viniciusneri and LinkedIn linkedin.com/in/viniciusneri
 
